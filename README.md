@@ -1,10 +1,9 @@
 # Whitelister - Whitelist dApp
 
-Whitelist dApp built with Next, ethers, and web3module
+- Whitelist dApp built with Next, ethers, and web3modal
+- Whitelist smart contract for maximum of 10 addresses built with solidity & hardhat
 
-Whitelist smart contract for maximum of 10 addresses built with solidity & hardhat
-
-This is a training by creating a Whitelist dApp to finish learnweb3 course for sophomore track
+## This is a training by creating a Whitelist dApp to finish learnweb3 course for sophomore track
 
 https://whitelister-xi.vercel.app/
 
